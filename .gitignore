@@ -1,0 +1,11 @@
+# Data Outputs #
+###################
+*.csv
+*.txt
+*.zip
+# Folder #
+##################
+._.DS_Store
+.vscode
+_back
+__pycache__
